@@ -9,7 +9,7 @@
 Phone: +92 3017654208 </p>
 
 <h2>Personal Information</h2>
-<p>Motivated and determined freshmen pursuing Bachelor's in Computer Science from Comsats University Islamabad. I enjoy learning new things and solving problems creatively. I really enjoy collaborating with different people. Looking to build my skills in programming and explore new challenges in the world of tech.</p>
+<p>Motivated and determined student doing  Bachelor's in Computer Science from Comsats University Islamabad. I enjoy learning new things and solving problems creatively. I really enjoy collaborating with different people. Looking to build my skills in programming and explore new challenges in the world of tech.</p>
 
 <h2>Education</h2>
 <ul>
@@ -18,7 +18,7 @@ Phone: +92 3017654208 </p>
 </ul>
 
 <h2>Skills</h2>
-<ul>
+<ul>cooking</ul>
 <li>Basic Programming (Java, HTML)</li>
 <li>Microsoft Office (Word, Excel, PowerPoint)</li>
 <li>Teamwork and Collaboration</li>
